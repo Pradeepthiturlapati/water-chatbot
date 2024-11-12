@@ -10,7 +10,10 @@ const responses = {
     "how to maintain water sanitation": "To maintain water sanitation, ensure proper disposal of waste, use safe latrines, and prevent contamination of water sources.",
     "benefits of clean water": "Clean water helps prevent diseases, supports agriculture, and is essential for a healthy life.",
     "importance of water conservation": "Water conservation is crucial to ensure sustainable access to clean water for everyone and protect our environment.",
-    "tips for saving water": "Some tips for saving water include fixing leaks, using water-efficient appliances, and taking shorter showers."
+    "tips for saving water": "Some tips for saving water include fixing leaks, using water-efficient appliances, and taking shorter showers.",
+    "what are water borne diseases ": "Ameobiasis ,Bacillary dysentery, Cholera.",
+    "What is meant by waterborne?":"supported,carried,or transmitted by water."
+    
 };
 
 function addMessage(message, sender) {
